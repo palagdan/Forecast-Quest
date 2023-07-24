@@ -1,0 +1,39 @@
+.info-container{
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+    text-shadow: 6px 6px rgba(50,50,70,.5);
+    
+}
+
+.temperature-container{
+    background-color: hsla(0, 0%, 100%, 0.218);
+    border-radius: 16px;
+    color:#fff;
+    margin: 30px auto;
+    box-shadow: 3px 6px rgba(50,50,70, .5);
+    padding: 20px;
+}
+
+.location{
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.date{
+    font-size: 32px;
+    font-weight: 300;
+}
+
+
+
+.temperature
+{
+    font-size: 64px;
+}
+
+.weather{
+    font-size: 48px;
+}
+
+.
