@@ -5,8 +5,8 @@
 }
 
 
-body  {
-  min-height: 100vh;
+body > #root > div {
+  height: 100vh;
 }
 
 

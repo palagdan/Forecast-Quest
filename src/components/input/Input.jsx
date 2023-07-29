@@ -11,10 +11,10 @@ const Input = ({city , setCity, searchWeather}) => {
     };
 
   return (
-    <div className='search_box'>
+    <div className='search-box'>
         <input type="text" 
         required
-        className='search_bar'
+        className='search-bar'
         value={city}
         placeholder='search...'
         onKeyDown={handleKeyDown}

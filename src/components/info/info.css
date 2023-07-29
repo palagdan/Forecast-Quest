@@ -3,6 +3,7 @@
     color: #fff;
     font-size: 32px;
     text-shadow: 6px 6px rgba(50,50,70,.5);
+    width: 100%;
     
 }
 
@@ -37,4 +38,6 @@
     font-size: 48px;
 }
 
-.
+.welcome-text{
+    width: 100%;
+}

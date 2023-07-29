@@ -1,7 +1,6 @@
 {
   "name": "Forecast Quest",
-  "private": true,
-  "homepage": "https://palagdan.github.io/forecast-quest",
+  "homepage": "https://palagdan.github.io/Forecast-Quest",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
